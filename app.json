@@ -60,11 +60,11 @@
 },
  "AUTOVIEW": {
       "description": "Input true if you want bot to automatically read status update",
-      "required": false
+      "required": true
 },
  "WA_PRESENCE": {
       "description": "Input either recording or typing. This enables bot to simulate typing or recording.",
-      "required": false
+      "required": true
 },
  "ANTILINK": {
       "description": "Input TRUE if you want bot to kick link senders",
@@ -88,11 +88,11 @@
 },
  "AUTOBIO": {
       "description": "Input TRUE if you want bot to autoupdate its about with current time and date.",
-      "required": false
+      "required": true
 },
  "APP_NAME": {
       "description": "Input your app name that you put above.",
-      "required": true
+      "required": Colucci
 },
  "STICKER_AUTHOR": {
       "description": "Input sticker data for author",
